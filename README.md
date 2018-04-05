@@ -1,3 +1,4 @@
+# Ames Housing Data
 The goal for this project is two-fold:
 
 1. Creating and iteratively refining regression and classification models
@@ -45,7 +46,3 @@ For this project, I wanted to make sure I was adhering to the following principl
 - **Organization**:	Clearly commented, annotated and sectioned Jupyter notebook or Python script. Comments and annotations add clarity, explanation and intent to the work. Notebook is well-structured with title, author and sections. Assumptions are stated and justified.
 - **Exploratory Data Analysis**: A thorough exploratory data analysis has been conducted. Descriptive statistics, univariate and bivariate analysis, and plotting are skillfully used to explore connections across the dataset between features and targets.
 - **Modeling Process**: Skillful and correct use of cross-validation, grid search, and goodness-of-fit metrics to evaluate candidate models. Assumptions and decisions in the modeling process are stated and justified. Use of correct modeling techniques in each challenge. Data is reproducibly and reliably transformed between training and test datasets.
-
-## Questions and Connections
-
-Find me on [LinkedIn](https://www.linkedin.com/in/dodgemcintosh/) to share your tips and tricks, ask me any questions, or if you just want to connect!
